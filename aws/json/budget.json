@@ -3,7 +3,7 @@
         "Amount": "5",
         "Unit": "USD"
     },
-    "BudgetName": "5 DOLLARS Budget",
+    "BudgetName": "5 Dollars Budget",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
