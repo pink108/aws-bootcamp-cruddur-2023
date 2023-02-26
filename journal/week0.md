@@ -4,7 +4,12 @@ Lucid chart sharable link: https://lucid.app/lucidchart/00615997-9e13-48c0-9ec2-
 
 Link to Napkin Design: https://github.com/pink108/aws-bootcamp-cruddur-2023/blob/8d5f627a0d4fd3e689343c95668b0dee9088118a/journal/architectureDiagram/NapkinLogicalDiagram.jpg 
 
-![SNS Topic-AWS CLI](https://github.com/pink108/aws-bootcamp-cruddur-2023/blob/8d5f627a0d4fd3e689343c95668b0dee9088118a/journal/image/week0-snstopic-bill-alarm.png)
+Create SNS Topic- AWS CLI
+<img title="SNS Topic-AWS CLI" src="image/week0-snstopic-bill-alarm.png"/>
 
-![Bill Alarm-DailyEstimatedCharges](https://github.com/pink108/aws-bootcamp-cruddur-2023/blob/8d5f627a0d4fd3e689343c95668b0dee9088118a/journal/image/week0-billalarm-cloudwatch.png)
+Bill Alarm
+<img title="Bill Alarm-DailyEstimatedCharges" src="image/week0-billalarm-cloudwatch.png"/>
+
+
+
 
